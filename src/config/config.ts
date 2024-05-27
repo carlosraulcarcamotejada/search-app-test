@@ -1,0 +1,9 @@
+export const {
+    VITE_API_URL,
+    VITE_GOOGLE_MAPS_API,
+    VITE_BASE_URL,
+    VITE_RECAPTCHA_KEYV2,
+    VITE_RECAPTCHA_SECRETV2,
+    VITE_STRAPI_API_KEY,
+  } = import.meta.env;
+  
